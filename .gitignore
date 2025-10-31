@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# But not these directories (so rules inside them are processed)
+!*/
+
+# Whitelist .c and .h files anywhere
+!*.c
+!*.h
+!*.md
+!.gitignore
+# Whitelist Makefiles anywhere
+!Makefile
+
