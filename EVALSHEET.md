@@ -4,31 +4,6 @@
 
 ---
 
-## 🧍 Introduction
-
-Please comply with the following rules:
-
-- Remain polite, respectful, and constructive during the evaluation.
-- Discuss and identify potential problems together.
-- Understand that different interpretations may exist — evaluate honestly.
-- Only evaluate **what’s in the official Git repository** of the student(s).
-- Clone the repo into an **empty directory** before starting.
-- Ensure there are no aliases or hidden code changes.
-- You may use test scripts for automation if both sides agree.
-
----
-
-## 🧰 General Rules
-
-- If the repo is empty, the program doesn’t work, or there are **Norm errors**, **cheating**, or **forbidden functions**, apply the proper flag.
-- In case of **cheating**, grade = `-42`.
-- In case of **segfaults** or any uncontrolled crash → grade = `0`.
-- No memory leaks are allowed.
-  - Use `valgrind`, `leaks`, or similar tools.
-- You may only edit configuration files if necessary.
-
----
-
 ## 🧪 Mandatory Part Tests
 
 ### 🔧 Compilation
