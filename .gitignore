@@ -10,6 +10,6 @@
 !*.md
 !.gitignore
 !*.supp
-# Whitelist Makefiles anywhere
+!*.sh
 !Makefile
 
